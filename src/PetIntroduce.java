@@ -8,5 +8,8 @@ public class PetIntroduce{
         System.out.println(age);
         System.out.println(height);
         System.out.println(weight);
+
+        System.out.println(height);
+        System.out.println(weight);
     }
 }
