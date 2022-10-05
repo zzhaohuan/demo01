@@ -6,7 +6,6 @@ public class Calculator {
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
-        System.out.println(pull);
 
     }
 }
